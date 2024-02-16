@@ -1,0 +1,223 @@
+
+.width
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+/* section 1 */
+
+
+.banner1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(255, 255, 255, 0.1)), url(/resources/Banner1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1360px;
+    height: 600px;
+ margin: auto;
+ border-radius:20px;
+ align-items: center;
+ text-align: center;
+ display: flex;
+ justify-content: center;
+}
+.title1{
+    color: white;
+    font-size: 40px;
+}
+.title2{
+    color: white;
+    font-size: 70px;
+}
+.section2{
+    text-align: center;
+    margin-top: 100px;
+   
+}
+.title3{
+   
+    color: red;
+    font-size: 100px;
+}
+.title4{
+    color: red;
+    font-size:40px;
+    margin-top: -20px;
+   
+}
+.title5{
+    font-size:60px;
+    margin-top: -20px;}
+
+    /* section 2  */
+
+    .banner2{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(255, 255, 255, 0.1)), url(/resources/Vectorrr.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        width: 1360px;
+        height: 600px;
+     margin: auto;
+     border-radius:20px;
+     align-items: center;
+     justify-content:space-around;
+     display: flex;
+     padding: 100px;
+     margin-top: 100px;
+    
+    }
+    .para1{
+        width: 40%;
+        color: white
+
+        ;
+    }
+    .button{
+
+ 
+        color :red;
+        padding: 10px;
+        font-size:30px;
+        font-weight: bold;
+        border-radius: 20px;
+    }
+    /* sction3 (time table */
+
+    .banner3{
+        background-image: linear-gradient(rgba(255, 205, 205, 0.7),rgba(255, 255, 255, 0.1));
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        width: 1360px;
+        margin: auto;
+        border-radius:20px;
+        align-items: center;
+        justify-content:space-around;
+        display: flex;
+        padding: 100px;
+        margin-top: 100px;
+        text-align: center;
+    
+    }
+    .span1{
+        color: red;
+        font-size: 40px;
+    }
+    .title6{
+        color: black;
+        font-size: 40px;
+    }
+    .button1{
+        color :rgb(255, 255, 255);
+        background:red;
+        padding: 10px 30px;
+        font-size:30px;
+        font-weight: bold;
+        border-radius: 20px;
+        border:none;
+
+        
+    }
+    /* section 4 (time table )*/
+    .banner5{
+        width: 1360px;
+     margin: auto;
+     border-radius:20px;
+     align-items: center;
+     justify-content:space-around;
+     display: flex;
+     padding: 100px;
+    
+    
+    }
+    .span2{
+        color: red;
+        font-size: 30px;
+    }
+    .span3{
+        color: red;
+        font-size: 60px;
+    }
+   
+    .img{
+        border: 10px solid red;
+        margin: 0px 100px;
+        border-radius: 50%;
+        padding: 20px;
+
+    }
+    .para{
+        font-size: 20px;
+    }
+    .para2{
+        width: 50%;
+        margin-top: -40px;
+    }
+    /* section 5 grid */
+    .grid{
+        width: 1360px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        align-items: center;
+        margin: auto;
+        row-gap: 50px;
+     
+    }
+    .imgradius{
+        border-radius: 10px;
+    }
+    .banner6{
+    
+       background: #fadede;
+        width: 1360px;
+        height: 600px;
+     margin: auto;
+     border-radius:20px;
+     align-items: center;
+     text-align: center;
+     display: flex;
+     justify-content: center;
+     margin-top: 100px;
+    }
+    .imgSize{
+        margin-bottom: 40px;
+    }
+    .input{
+        display: flex;
+        align-items: center;
+    }
+    .insideInput{
+        padding: 20px 40px;
+        font-size:30px;
+        border-radius: 10px;
+        border:none;
+    }
+    .button2{
+        color :rgb(255, 255, 255);
+        background:red;
+        padding: 25px 30px;
+        font-size:30px;
+        margin-left: -10px;
+        border-top-right-radius:20px ;
+       border-bottom-right-radius: 20px;
+        border:none;
+    }
+    .fotter1{
+        display: flex;
+        height: 100px;
+
+        background-color: black;
+       
+        margin-top: 100px;
+    }
+    .fotterPara{
+        color: white;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        margin: auto;
+
+
+    }
